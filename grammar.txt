@@ -1,0 +1,8 @@
+S aSa
+S bSb
+S X
+X aYb
+X bYa
+Y aY
+Y bY
+Y *

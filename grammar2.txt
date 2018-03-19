@@ -1,0 +1,3 @@
+S aSa|bSb|X
+X aYb|bYa
+Y aY|bY|*
