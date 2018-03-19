@@ -1,5 +1,4 @@
 #  Robert Call
-#  Program 6.1
 #  Generates 5 random strings from context free grammar
 
 
